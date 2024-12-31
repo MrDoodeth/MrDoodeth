@@ -6,11 +6,11 @@ In addition to programming, I also have experience working with **computer graph
 ![PROFILE VIEW](https://komarev.com/ghpvc/?username=MrDoodeth&label=PROFILE+VIEWS&style=flat-square)
 
 ## 🎯 My Goals:
-- 🛠 Explore and learn new tools to enhance my development skills.
+- 🛠️ Explore and learn new tools to enhance my development skills.
 - 🌱 Improve my skills in writing clean code and testing.
-- 🌐 Work towards becoming a full-stack developer by exploring front-end technologies and frameworks.
+- 🚀 Work towards becoming a full-stack developer by exploring front-end technologies and frameworks.
 
-## 🛠 Skills:
+## 🌟 Skills:
 - 💻 Main programming language: **Java**
 - 📖 English level: reading technical documentation.
 
@@ -22,7 +22,7 @@ In addition to programming, I also have experience working with **computer graph
 ![C#](https://img.shields.io/badge/C%23-%23bc74d9?style=for-the-badge&logoColor=white)
 ![Bash](https://img.shields.io/badge/Shell_Script-%234EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
 
-### 🛠️ Development Tools:  
+### 🧰 Development Tools:  
 ![Intellij IDEA](https://img.shields.io/badge/Intellij%20IDEA-%23000000?style=for-the-badge&logo=intellijidea&logoColor=white)
 ![Rider](https://img.shields.io/badge/rider-%23000000?style=for-the-badge&logo=rider)
 ![Maven](https://img.shields.io/badge/Maven-%23C71A36?style=for-the-badge&logo=apachemaven&logoColor=white)
