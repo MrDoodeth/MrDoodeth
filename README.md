@@ -8,10 +8,11 @@ In addition to programming, I also have experience working with **computer graph
 ## 🎯 My Goals:
 - 🛠️ Explore and learn new tools to enhance my development skills.
 - 🌱 Improve my skills in writing clean code and testing.
-- 🚀 Work towards becoming a full-stack developer by exploring front-end technologies and frameworks.
+- 🚀 Work towards becoming a **full-stack** developer by exploring front-end technologies and frameworks.
 
 ## 🌟 Skills:
-- 💻 Main programming language: **Java**
+- 💻 Main programming language: **Java**. But I've also worked with other tools and technologies.
+- 🏞️ Experience working with different types of computer graphics.
 - 📖 English level: reading technical documentation.
 
 ## 🔧 Tools:
@@ -30,7 +31,7 @@ In addition to programming, I also have experience working with **computer graph
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-%2321a7f0?style=for-the-badge)
 
 ### 🐧 Operating Systems:  
-![Arch](https://img.shields.io/badge/arch_linux-%231793D1?style=for-the-badge&logo=archlinux&logoColor=white)
+![Arch](https://img.shields.io/badge/arch-%231793D1?style=for-the-badge&logo=archlinux&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/ubuntu-%23E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 
 ### 🎮 Game Development:
