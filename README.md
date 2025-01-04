@@ -1,5 +1,5 @@
 ## 👋 About Me
-My name is ***Andrey***, and I’m a beginner Java developer.
+My name is ***Andrey***, and I am a beginner Java developer.
 I love learning new skills, solving interesting problems, and designing unique IT systems!
 In addition to programming, I also have experience working with **computer graphics**: creating 3D models and exploring creative design tools.
 
@@ -11,7 +11,7 @@ In addition to programming, I also have experience working with **computer graph
 - 🚀 Work towards becoming a **full-stack** developer by exploring front-end technologies and frameworks.
 
 ## 🌟 Skills:
-- 💻 Main programming language: **Java**. But I've also worked with other tools and technologies.
+- 💻 Main programming language: **Java**. But I have also worked with other tools and technologies.
 - 🏞️ Experience working with different types of computer graphics.
 - 📖 English level: reading technical documentation.
 
