@@ -46,4 +46,4 @@ In addition to programming, I also have experience working with **computer graph
 
 ## 📫 Contact Information
 [![Telegram](https://img.shields.io/badge/telegram-%231a31d7?style=for-the-badge&logo=telegram&logoColor=white&color=%2326A5E4)](https://t.me/MrDoodeth)
-[![Email](https://img.shields.io/badge/Email-%235f01d1?style=for-the-badge&logo=maildotru&logoColor=white)](mailto:mrdoodeth@yahoo.com)
+[![Email](https://img.shields.io/badge/Email-%235f01d1?style=for-the-badge&logo=maildotru&logoColor=white)](mailto:mrduves@yandex.ru)
